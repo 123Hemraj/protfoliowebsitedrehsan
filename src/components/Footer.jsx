@@ -16,7 +16,7 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>Phone: +91 9999 629550</li>
               <li>Email: asgarehsan@gmail.com</li>
-              <li>Institute: HMR ITAM, New Delhi</li>
+              <li>Institute: HMRITM, New Delhi</li>
             </ul>
           </div>
           <div>
